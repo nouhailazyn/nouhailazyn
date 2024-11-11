@@ -3,7 +3,6 @@
 - 👀 I’m interested in learning everything about coding
 - 🌱 I’m currently learning digital dévelopement
 - 📫 How to reach me: ezzayanynouhaila@gmailcom
-- 😄 Pronouns: She/her
 - ⚡ Tools and Technologies i work with:
 - Programming languange: phyton, html & css
 - Tools: Vs Code
